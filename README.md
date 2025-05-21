@@ -18,4 +18,4 @@ INCOME,Salary,60000,2025-05-01
 EXPENSE,Food,1500,2025-05-02
 
 ## Author
-Anushree M.
+Anushree M
